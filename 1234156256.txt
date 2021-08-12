@@ -1,0 +1,17 @@
+HKU\*\Software\Microsoft\Internet Explorer\TypedURLs
+HKU\*\SOFTWARE\Microsoft\Edge
+HKU\*\Software\Microsoft\Edge\IEToEdge
+
+
+HKU\*\Software\Microsoft\Internet Explorer\TypedURLs
+HKU\*\Software\Microsoft\Windows\CurrentVersion\Run
+HKU\*\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+HKLM\Software\Microsoft\Windows\CurrentVersion\RunOnce
+HKLM\SYSTEM\ControlSet001\Enum\USBSTOR
+HKLM\SYSTEM\ControlSet001\Services
+HKLM\SYSTEM\ControlSet001\Services\Eventlog
+a
+
+vidcap.ax
+d3d
