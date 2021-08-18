@@ -1,2 +1,0 @@
-# SSNC
-SSNC FIT Test
